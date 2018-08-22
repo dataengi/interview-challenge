@@ -28,8 +28,6 @@
 - Compensation of sports activities, certification, conferences and seminars
 
 
-## Test challenge:
-https://goo.gl/2wnv8Q
 
 If you’re interested in our opportunity, feel free to send your resume to
 cv@dataengi.com
