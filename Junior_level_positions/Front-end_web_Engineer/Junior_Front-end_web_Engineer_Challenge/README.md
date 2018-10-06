@@ -3,12 +3,10 @@ All questions and discussion in issues of this project.
 
 ## Introduction
 
-1. Solutions could be written on your choose in English (preferred) or Ukrainian language.
-2. Use your personal GitHub account to fork this project and push your solution to it (current branch and subdirectory).
-3. Send link to your fork project with solution.
-4. Task 1 and Task 2 are students practice or trainee level.
-5. Task 3 is for job offer candidates (Task 1 and Task 2 are required too ).
-6. All solutions should be in the same forked project with good code style, comments and SOLUTION.md description.
+1. Solutions should be written in English language.
+2. Use your personal GitHub account to fork current project and push your solution to it (current branch and subdirectory).
+3. Create pull request from your fork project with solution to base repository.
+4. All solutions should be in the same forked project with good code style, comments and SOLUTION.md description.
 
 
 
@@ -18,69 +16,47 @@ All questions and discussion in issues of this project.
 
 
 
-### Task-1
+### Challenge description
 
 #### Project brief
-Convert the following designs to HTML/CSS/JS.
+Your goal is to pivot Github data in a way that users are in the
+center of it. To narrow our scope lets focus for the purpose of this
+exercise on [DataEngi repository](https://github.com/dataengi). You
+can find there many repositories and each of them has its own
+contributors. Recommended frameworks Angular2+ or React.
 
-#### Thumbnails
-![Xfive Front-end Test Thumbnails](xfive-front-end-test-thumbs.jpg)
+#### Your goal is
+to create an app that will list DataEngi repositories
+and some other details The app will contain three __distinct__ views:
+- List of ScalHive repositories
+- The repository details page where we can find list of contributors.
+The list should be sorted by amount of contributions
+- The contributor details page Judging criteria (top the most important)
 
-#### Overlay
-![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
-
-#### Requirements
-1. Use HTML5 / SCSS
-2. Make it responsive using your best judgement.
-3. Create a simple custom overlay for photos - use pure JavaScript code for it.
-4. Create some hover effect for the image thumbnails.
-
-
-#### Download PSD
-[xfive-front-end-test.zip](xfive-front-end-test.zip?raw=true) (24MB)
-
-- The font used in the design is Open Sans
-- The following images are used in the design:
-- https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/
-- https://pixabay.com/en/new-zealand-lake-web-kai-dock-583176/
-- https://pixabay.com/en/new-zealand-doubtful-sound-fjord-583181/
-- https://pixabay.com/en/sun-rise-beach-new-zealand-auckland-661541/
-
-#### Supported browsers
-Ensure that the elements work and display correctly in the following browsers:
-
-- Firefox (latest version)
-- Google Chrome (latest version)
-- Microsoft Edge
-- Internet Explorer 11
-
-
-
-### Task-2
-#### Requirements
-1. Make the page the smallest possible size - ensure that images are properly optimized, resources minified, etc.
-2. Use [responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
-3. Add basic routing – make browser's back button work properly; open overlay based on URL.
-
-
-### Task-3
-#### Requirements
-1. Fork project https://github.com/dataengi/crm-seed-ui and clone it locally
-2. Fix one of issues https://github.com/dataengi/crm-seed-ui/issues
-3. Add link to your fork in SOLUTION.md file of main project and explanation of your fix.
-4. Make pull request on main project
+#### Final working sample
+- creating a usable product (UX)
+- code quality
+- fluentness, responsiveness & performance
+The sample project should be stored on your personal repository and
+link is send to team@dataengi.com.
 
 
 
 ## Coding Standards
-When working on the project use consistent coding style. Try to follow what's already defined in Chisel (EditorConfig, stylelint, ESLint). You can also check guidelines like [Code Guide](http://codeguide.co/) or [CSS Guidelines](http://cssguidelin.es/).
+When working on the project use consistent coding style. Try to
+follow what's already defined in Chisel (EditorConfig, stylelint,
+ESLint). You can also check guidelines like
+[Code Guide](http://codeguide.co/) or
+[CSS Guidelines](http://cssguidelin.es/).
 
 ## Project Deadline
-Take your time but try to deliver it within 2 weeks time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
+Take your time but try to deliver it within 2 weeks time.
+
 
 ## Quality Assurance
 
-What you need to do to get high QA score? Simply answer **Yes** to all these questions:
+What you need to do to get high QA score? Simply answer **Yes**
+to all these questions:
 
 ### General
 
