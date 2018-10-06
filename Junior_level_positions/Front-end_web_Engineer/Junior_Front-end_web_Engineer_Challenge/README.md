@@ -4,9 +4,12 @@ All questions and discussion in issues of this project.
 ## Introduction
 
 1. Solutions should be written in English language.
-2. Use your personal GitHub account to fork current project and push your solution to it (current branch and subdirectory).
-3. Create pull request from your fork project with solution to base repository.
-4. All solutions should be in the same forked project with good code style, comments and SOLUTION.md description.
+2. Use your personal GitHub account to fork current project and push
+your solution to it (current branch and subdirectory).
+3. Create pull request from your fork project with solution to base
+repository.
+4. All solutions should be in the same forked project with good code
+style, comments and SOLUTION.md description.
 
 
 
@@ -37,6 +40,7 @@ The list should be sorted by amount of contributions
 - creating a usable product (UX)
 - code quality
 - fluentness, responsiveness & performance
+- use git best practices for commits, branches etc.
 The sample project should be stored on your personal repository and
 link is send to team@dataengi.com.
 
