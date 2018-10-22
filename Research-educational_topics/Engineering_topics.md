@@ -1,10 +1,16 @@
 ## Associate
+
+- Collections and Functional Programming Basics
+- Inheritance and Traits
+- Pattern Matching
+- Dealing with Optional Values
+- Transition from DevOps to DevSecOps culture
+- Continus Integration/Delivery/Monitoring concepts
+
+## Basic
 - Domain-Driven Design
 - Scalability, Resilience, Consistency models
 - Delivery guarantees 
-- Transition from DevOps to DevSecOps culture
-
-## Basic
 - Distributed Systems Design
 - Event-Sourcing, CQRS
 - The Actor model
