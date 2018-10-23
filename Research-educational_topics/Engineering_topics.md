@@ -4,14 +4,14 @@
 - OOP and OOD principals
 - Design patterns
 
-### Scala:
-- Type system
-- Collections
-- Implicits
-- Futures and Promises
-- sbt basics
-- Pattern Matching
-- Options and Eithers
+- Scala:
+    - Type system
+    - Collections
+    - Implicits
+    - Futures and Promises
+    - sbt basics
+    - Pattern Matching
+    - Options and Eithers
 
 - Docker containers managment
 - DB SQL and NoSQL data modeling and quering
