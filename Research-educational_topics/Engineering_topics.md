@@ -4,7 +4,7 @@
 - OOP and OOD principals
 - Design patterns
 
-Scala:
+### Scala:
 - Type system
 - Collections
 - Implicits
