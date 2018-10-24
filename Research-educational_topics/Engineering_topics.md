@@ -46,6 +46,8 @@ and HDF (Hortonworks Data flow)
 - Kubernetes-native Management of Akka-based Applications
 - Fast Data Platform (Lightbend)
 - Reactive Production Tooling
+- The Emerging Architecture for Modern Data Applications
+- Design of a Cost Efficient Time Series Store for Big Data
 - Running in Multiple Zones - Kubernetes
 - Running in Multiple Zones - OpenStack
 - Running in Multiple Zones - Hadoop framework
