@@ -13,10 +13,11 @@
     - Pattern Matching
     - Options and Eithers
 
-
+### Data Engineering
 - DB SQL and NoSQL data modeling and quering
 - Big Data processing principals
 - Data wrangling tools review ([Trifacta](https://www.trifacta.com/),[OpenRefine](https://github.com/OpenRefine/OpenRefine), etc.) 
+- Business intelligence tools review ([Talend Data Preparation](https://www.talend.com/products/data-preparation/data-preparation-free-desktop/), [Google Data Studion](https://marketingplatform.google.com/about/data-studio/), 
 
 ### DevOps 
 - Docker containers managment
@@ -36,12 +37,20 @@
 - Event-Sourcing, CQRS
 - The Actor model
 - Microservice systems
+
+### Data Engineering
+- From batch to stream processing (examples: Lightbend Fast Data Platform, HDP (Hortonworks Data Platform)
+and HDF (Hortonworks Data flow)
+- Review Analytics and machine learning platforms ([Google Cloud Dataflow ](https://cloud.google.com/dataflow/), [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) etc.)
+
+### DevOps 
 - Infrastructure as Code (example: Terraform)
 - Identity and Access Management (example: Keycloak)
 - Data visualisation implementations (example: Grafana)
 - Private cloud platforms (example: OpenStack)
-- From batch to stream processing (examples: Lightbend Fast Data Platform, HDP (Hortonworks Data Platform)
-and HDF (Hortonworks Data flow)
+- Domain name, SSL expiration date resource monitorring and handling automation.
+- Application availability monitoring and handling.
+
 
 ## Professional
 - CAP theorem (and more)
