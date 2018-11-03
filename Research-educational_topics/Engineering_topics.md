@@ -17,7 +17,7 @@
 - DB SQL and NoSQL data modeling and quering
 - Big Data processing principals
 - Data wrangling tools review ([Trifacta](https://www.trifacta.com/),[OpenRefine](https://github.com/OpenRefine/OpenRefine), etc.) 
-- Business intelligence tools review ([Talend Data Preparation](https://www.talend.com/products/data-preparation/data-preparation-free-desktop/), [Google Data Studion](https://marketingplatform.google.com/about/data-studio/), 
+- Business intelligence tools review ([Talend Data Preparation](https://www.talend.com/products/data-preparation/data-preparation-free-desktop/), [Google Data Studio](https://marketingplatform.google.com/about/data-studio/), etc.)
 
 ### DevOps 
 - Docker containers managment
