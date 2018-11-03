@@ -13,10 +13,13 @@
     - Pattern Matching
     - Options and Eithers
 
-- Docker containers managment
+
 - DB SQL and NoSQL data modeling and quering
 - Big Data processing principals
+- Data wrangling tools review ([Trifacta](https://www.trifacta.com/),[OpenRefine](https://github.com/OpenRefine/OpenRefine), etc.) 
 
+### DevOps 
+- Docker containers managment
 - Transition from DevOps to DevSecOps culture
 - Continus Integration/Delivery/Monitoring concepts
 
